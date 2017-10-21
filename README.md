@@ -1,17 +1,6 @@
 ## particles.js
 
-### A lightweight JavaScript library for creating particles.
-
-------------------------------
-### `Demo / Generator`
-
-<a href="http://vincentgarreau.com/particles.js/" target="_blank"><img src="http://vincentgarreau.com/particles.js/assets/img/github-screen.jpg" alt="particles.js generator" /></a>
-
-Configure, export, and share your particles.js configuration on CodePen: <br />
-http://vincentgarreau.com/particles.js/
-
-CodePen demo: <br />
-http://codepen.io/VincentGarreau/pen/pnlso
+### A lightweight JavaScript library for creating particles - forked from https://github.com/VincentGarreau/particles.js.
 
 -------------------------------
 ### `Usage`
@@ -207,37 +196,3 @@ key | option type / notes | example
 `interactivity.events.modes.push.particles_nb` | number | `4`
 `interactivity.events.modes.push.particles_nb` | number | `4`
 `retina_detect` | boolean | `true` / `false`
-
--------------------------------
-
-### `Packages install`
-
-##### ***npm***
-https://www.npmjs.com/package/particles.js
-```
-npm install particles.js
-```
-
-##### ***Bower***
-```
-bower install particles.js --save
-```
-
-##### ***Rails Assets***
-```
-gem 'rails-assets-particles.js'
-```
-
-##### ***Meteor***
-https://atmospherejs.com/newswim/particles
-```
-meteor add newswim:particles
-```
-
--------------------------------
-
-### `Hosting / CDN`
-
-***Please use this host or your own to load particles.js on your projects***
-
-http://www.jsdelivr.com/#!particles.js
